@@ -13,6 +13,27 @@
 		17132319233CB62A00C5F06E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17132317233CB62A00C5F06E /* Main.storyboard */; };
 		1713231B233CB62B00C5F06E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1713231A233CB62B00C5F06E /* Assets.xcassets */; };
 		1713231E233CB62B00C5F06E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1713231C233CB62B00C5F06E /* LaunchScreen.storyboard */; };
+		17132326233CB67200C5F06E /* PushPopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17132325233CB67200C5F06E /* PushPopViewController.swift */; };
+		17132328233CB80D00C5F06E /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17132327233CB80D00C5F06E /* InitialViewController.swift */; };
+		17A5097E234E469300B239C8 /* SF-Pro-Rounded-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17A5097D234E469200B239C8 /* SF-Pro-Rounded-Regular.otf */; };
+		17BFADEA25C822AE00F2C5AE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 17BFADE925C822AE00F2C5AE /* README.md */; };
+		17C0319C234BC8C60027F907 /* DuckDuckGoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C0319B234BC8C60027F907 /* DuckDuckGoViewController.swift */; };
+		17C0319E234BC8E30027F907 /* HandsUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C0319D234BC8E30027F907 /* HandsUpViewController.swift */; };
+		17C281DD234D365100D30E1C /* ThanksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281DC234D365100D30E1C /* ThanksViewController.swift */; };
+		17C281DF234D42BB00D30E1C /* WebPagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281DE234D42BB00D30E1C /* WebPagesViewController.swift */; };
+		17C281E1234D42D700D30E1C /* AutoothMainComparisonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281E0234D42D700D30E1C /* AutoothMainComparisonViewController.swift */; };
+		17C281E3234D42E800D30E1C /* SystemColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281E2234D42E800D30E1C /* SystemColorsViewController.swift */; };
+		17C281E5234D42F900D30E1C /* ComparisonHighContrastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281E4234D42F900D30E1C /* ComparisonHighContrastViewController.swift */; };
+		17C281E7234D430D00D30E1C /* ComparisonBluesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281E6234D430D00D30E1C /* ComparisonBluesViewController.swift */; };
+		17C281E9234D431800D30E1C /* CustomColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281E8234D431800D30E1C /* CustomColorsViewController.swift */; };
+		17C281EB234D432300D30E1C /* DarkImagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281EA234D432300D30E1C /* DarkImagesViewController.swift */; };
+		17C281ED234D433000D30E1C /* CodeVersionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281EC234D433000D30E1C /* CodeVersionViewController.swift */; };
+		17C281EF234D433F00D30E1C /* NoAppIconSupportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281EE234D433F00D30E1C /* NoAppIconSupportViewController.swift */; };
+		17C281F1234D434D00D30E1C /* BlackPowerEfficiencyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281F0234D434D00D30E1C /* BlackPowerEfficiencyViewController.swift */; };
+		17C281F3234D435800D30E1C /* ShouldYouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281F2234D435800D30E1C /* ShouldYouViewController.swift */; };
+		17C281F5234D436200D30E1C /* OptOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C281F4234D436200D30E1C /* OptOutViewController.swift */; };
+		17D48A7E234F4EDE0088FBC0 /* LifeDarkModeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D48A7D234F4EDE0088FBC0 /* LifeDarkModeViewController.swift */; };
+		17DBFA152343DA6F006BFB6B /* SpeechViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DBFA142343DA6F006BFB6B /* SpeechViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +45,27 @@
 		1713231A233CB62B00C5F06E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1713231D233CB62B00C5F06E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1713231F233CB62B00C5F06E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17132325233CB67200C5F06E /* PushPopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushPopViewController.swift; sourceTree = "<group>"; };
+		17132327233CB80D00C5F06E /* InitialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
+		17A5097D234E469200B239C8 /* SF-Pro-Rounded-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Rounded-Regular.otf"; sourceTree = "<group>"; };
+		17BFADE925C822AE00F2C5AE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		17C0319B234BC8C60027F907 /* DuckDuckGoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuckDuckGoViewController.swift; sourceTree = "<group>"; };
+		17C0319D234BC8E30027F907 /* HandsUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandsUpViewController.swift; sourceTree = "<group>"; };
+		17C281DC234D365100D30E1C /* ThanksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThanksViewController.swift; sourceTree = "<group>"; };
+		17C281DE234D42BB00D30E1C /* WebPagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebPagesViewController.swift; sourceTree = "<group>"; };
+		17C281E0234D42D700D30E1C /* AutoothMainComparisonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoothMainComparisonViewController.swift; sourceTree = "<group>"; };
+		17C281E2234D42E800D30E1C /* SystemColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemColorsViewController.swift; sourceTree = "<group>"; };
+		17C281E4234D42F900D30E1C /* ComparisonHighContrastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComparisonHighContrastViewController.swift; sourceTree = "<group>"; };
+		17C281E6234D430D00D30E1C /* ComparisonBluesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComparisonBluesViewController.swift; sourceTree = "<group>"; };
+		17C281E8234D431800D30E1C /* CustomColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColorsViewController.swift; sourceTree = "<group>"; };
+		17C281EA234D432300D30E1C /* DarkImagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkImagesViewController.swift; sourceTree = "<group>"; };
+		17C281EC234D433000D30E1C /* CodeVersionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeVersionViewController.swift; sourceTree = "<group>"; };
+		17C281EE234D433F00D30E1C /* NoAppIconSupportViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoAppIconSupportViewController.swift; sourceTree = "<group>"; };
+		17C281F0234D434D00D30E1C /* BlackPowerEfficiencyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackPowerEfficiencyViewController.swift; sourceTree = "<group>"; };
+		17C281F2234D435800D30E1C /* ShouldYouViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShouldYouViewController.swift; sourceTree = "<group>"; };
+		17C281F4234D436200D30E1C /* OptOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptOutViewController.swift; sourceTree = "<group>"; };
+		17D48A7D234F4EDE0088FBC0 /* LifeDarkModeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeDarkModeViewController.swift; sourceTree = "<group>"; };
+		17DBFA142343DA6F006BFB6B /* SpeechViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +101,41 @@
 				17132311233CB62A00C5F06E /* AppDelegate.swift */,
 				17132313233CB62A00C5F06E /* SceneDelegate.swift */,
 				17132315233CB62A00C5F06E /* ViewController.swift */,
+				17132325233CB67200C5F06E /* PushPopViewController.swift */,
+				17DBFA142343DA6F006BFB6B /* SpeechViewController.swift */,
+				17C0319F234BC8F90027F907 /* Slides */,
 				17132317233CB62A00C5F06E /* Main.storyboard */,
 				1713231A233CB62B00C5F06E /* Assets.xcassets */,
 				1713231C233CB62B00C5F06E /* LaunchScreen.storyboard */,
+				17A5097D234E469200B239C8 /* SF-Pro-Rounded-Regular.otf */,
+				17BFADE925C822AE00F2C5AE /* README.md */,
 				1713231F233CB62B00C5F06E /* Info.plist */,
 			);
 			path = "Dark Mode";
+			sourceTree = "<group>";
+		};
+		17C0319F234BC8F90027F907 /* Slides */ = {
+			isa = PBXGroup;
+			children = (
+				17132327233CB80D00C5F06E /* InitialViewController.swift */,
+				17C0319D234BC8E30027F907 /* HandsUpViewController.swift */,
+				17C0319B234BC8C60027F907 /* DuckDuckGoViewController.swift */,
+				17C281DE234D42BB00D30E1C /* WebPagesViewController.swift */,
+				17C281E0234D42D700D30E1C /* AutoothMainComparisonViewController.swift */,
+				17C281E4234D42F900D30E1C /* ComparisonHighContrastViewController.swift */,
+				17C281E6234D430D00D30E1C /* ComparisonBluesViewController.swift */,
+				17C281E2234D42E800D30E1C /* SystemColorsViewController.swift */,
+				17C281E8234D431800D30E1C /* CustomColorsViewController.swift */,
+				17C281EA234D432300D30E1C /* DarkImagesViewController.swift */,
+				17C281EC234D433000D30E1C /* CodeVersionViewController.swift */,
+				17C281EE234D433F00D30E1C /* NoAppIconSupportViewController.swift */,
+				17C281F0234D434D00D30E1C /* BlackPowerEfficiencyViewController.swift */,
+				17C281F2234D435800D30E1C /* ShouldYouViewController.swift */,
+				17C281F4234D436200D30E1C /* OptOutViewController.swift */,
+				17D48A7D234F4EDE0088FBC0 /* LifeDarkModeViewController.swift */,
+				17C281DC234D365100D30E1C /* ThanksViewController.swift */,
+			);
+			path = Slides;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +197,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1713231E233CB62B00C5F06E /* LaunchScreen.storyboard in Resources */,
+				17A5097E234E469300B239C8 /* SF-Pro-Rounded-Regular.otf in Resources */,
+				17BFADEA25C822AE00F2C5AE /* README.md in Resources */,
 				1713231B233CB62B00C5F06E /* Assets.xcassets in Resources */,
 				17132319233CB62A00C5F06E /* Main.storyboard in Resources */,
 			);
@@ -138,9 +211,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17D48A7E234F4EDE0088FBC0 /* LifeDarkModeViewController.swift in Sources */,
+				17C281EB234D432300D30E1C /* DarkImagesViewController.swift in Sources */,
+				17C281ED234D433000D30E1C /* CodeVersionViewController.swift in Sources */,
+				17C0319E234BC8E30027F907 /* HandsUpViewController.swift in Sources */,
+				17132328233CB80D00C5F06E /* InitialViewController.swift in Sources */,
+				17C281F1234D434D00D30E1C /* BlackPowerEfficiencyViewController.swift in Sources */,
+				17C281E3234D42E800D30E1C /* SystemColorsViewController.swift in Sources */,
+				17132326233CB67200C5F06E /* PushPopViewController.swift in Sources */,
+				17C281EF234D433F00D30E1C /* NoAppIconSupportViewController.swift in Sources */,
+				17C0319C234BC8C60027F907 /* DuckDuckGoViewController.swift in Sources */,
 				17132316233CB62A00C5F06E /* ViewController.swift in Sources */,
 				17132312233CB62A00C5F06E /* AppDelegate.swift in Sources */,
+				17C281E7234D430D00D30E1C /* ComparisonBluesViewController.swift in Sources */,
+				17C281E9234D431800D30E1C /* CustomColorsViewController.swift in Sources */,
+				17C281F5234D436200D30E1C /* OptOutViewController.swift in Sources */,
+				17C281DF234D42BB00D30E1C /* WebPagesViewController.swift in Sources */,
+				17C281E5234D42F900D30E1C /* ComparisonHighContrastViewController.swift in Sources */,
+				17C281F3234D435800D30E1C /* ShouldYouViewController.swift in Sources */,
+				17DBFA152343DA6F006BFB6B /* SpeechViewController.swift in Sources */,
+				17C281E1234D42D700D30E1C /* AutoothMainComparisonViewController.swift in Sources */,
 				17132314233CB62A00C5F06E /* SceneDelegate.swift in Sources */,
+				17C281DD234D365100D30E1C /* ThanksViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,7 +386,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aledsamuel.Dark-Mode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -312,7 +404,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aledsamuel.Dark-Mode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
