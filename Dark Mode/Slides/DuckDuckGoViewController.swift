@@ -20,11 +20,6 @@ final class DuckDuckGoViewController: PushPopViewController {
 	
 	override func shouldPush(_ recognizer: UISwipeGestureRecognizer) {
 		
-		let storyboard = UIStoryboard(name: "Main", bundle: nil)
-		let nextViewController = storyboard.instantiateViewController(identifier: WebPagesViewController.title)
-//		let nextViewController = storyboard.instantiateViewController(identifier: ThanksViewController.title)
-//		let nextViewController = storyboard.instantiateViewController(identifier: InitialViewController.title)
-		
-		navigationController?.pushViewController(nextViewController, animated: true)
+		pushToViewController(identifier: WebPagesViewController.title)
 	}
 }

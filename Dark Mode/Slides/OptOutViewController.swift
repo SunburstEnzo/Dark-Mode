@@ -20,9 +20,6 @@ final class OptOutViewController: PushPopViewController {
 	
 	override func shouldPush(_ recognizer: UISwipeGestureRecognizer) {
 		
-		let storyboard = UIStoryboard(name: "Main", bundle: nil)
-		let nextViewController = storyboard.instantiateViewController(identifier: LifeDarkModeViewController.title)
-		
-		navigationController?.pushViewController(nextViewController, animated: true)
+		pushToViewController(identifier: LifeDarkModeViewController.title)
 	}
 }

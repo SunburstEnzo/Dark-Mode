@@ -20,9 +20,6 @@ final class HandsUpViewController: PushPopViewController {
 	
 	override func shouldPush(_ recognizer: UISwipeGestureRecognizer) {
 		
-		let storyboard = UIStoryboard(name: "Main", bundle: nil)
-		let nextViewController = storyboard.instantiateViewController(identifier: DuckDuckGoViewController.title)
-		
-		navigationController?.pushViewController(nextViewController, animated: true)
+		pushToViewController(identifier: DuckDuckGoViewController.title)
 	}
 }

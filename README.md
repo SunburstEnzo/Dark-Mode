@@ -16,6 +16,7 @@ A rough-working version of a makeshift subtitles effect is also included, though
 * iOS 13+
 * Requires the "SF-Pro-Rounded-Regular.otf" Apple font for full Storyboard support
 * Microphone access to get the live-talking subtitles working, though not required to view slides
+* Optimised for iPad Pro 10.5"
 
 
 ## Privacy

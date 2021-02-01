@@ -53,10 +53,5 @@ final class InitialViewController: PushPopViewController {
 	override func shouldPush(_ recognizer: UISwipeGestureRecognizer) {
 		
 		pushToViewController(identifier: HandsUpViewController.title)
-		
-//		let storyboard = UIStoryboard(name: "Main", bundle: nil)
-//		let nextViewController = storyboard.instantiateViewController(identifier: HandsUpViewController.title)
-//
-//		navigationController?.pushViewController(nextViewController, animated: true)
 	}
 }

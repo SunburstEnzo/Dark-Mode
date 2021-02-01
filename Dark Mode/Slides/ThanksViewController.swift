@@ -34,9 +34,6 @@ final class ThanksViewController: PushPopViewController {
 	
 	override func shouldPush(_ recognizer: UISwipeGestureRecognizer) {
 		
-		let storyboard = UIStoryboard(name: "Main", bundle: nil)
-		let nextViewController = storyboard.instantiateViewController(identifier: InitialViewController.title)
-		
-		navigationController?.pushViewController(nextViewController, animated: true)
+		pushToViewController(identifier: InitialViewController.title)
 	}
 }
